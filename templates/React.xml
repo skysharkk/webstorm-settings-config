@@ -1,0 +1,18 @@
+<templateSet group="React">
+  <template name="ire" value="import React from 'react';&#10;" description="Import React" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ipr" value="import PropTypes from 'prop-types';" description="import PropTypes" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="prt" value="$1$.propTypes" description="propTypes method" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
