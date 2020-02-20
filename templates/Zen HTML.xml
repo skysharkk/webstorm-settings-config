@@ -8,4 +8,8 @@
     <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="title" value="&lt;title&gt;$END$&lt;/title&gt;" description="&lt;title&gt;...&lt;/title&gt;" toReformat="false" toShortenFQNames="true">
+    <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
 </templateSet>
