@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="component" type="JSX Harmony" />
+      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
